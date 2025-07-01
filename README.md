@@ -1,4 +1,3 @@
-# Sravan-Kumar-Annam
 # 👋 Hi there, I'm Sravan Kumar! Your QA Automator in Action 🚀
 
 I'm a passionate **Senior QA Automation Engineer** with **7.8+ years** of experience in **Functional Testing**, **UI & API Automation**, and **Mobile Testing**. I specialize in building scalable, maintainable automation frameworks using **Selenium, Java, TestNG, Cucumber, Appium**, and **Rest Assured**.
